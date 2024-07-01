@@ -15,7 +15,6 @@ class constructor{
 };
 
 
-
 int main(){
 
     constructor t1(3);

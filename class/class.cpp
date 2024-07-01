@@ -1,7 +1,5 @@
 #include<iostream>
 using namespace std;
-
-
 class employee {
     public:
      void first(){
@@ -25,7 +23,5 @@ int main(){
     employee2 s;
     t.first();
     s.third();
-
-
     return 0;
 }
